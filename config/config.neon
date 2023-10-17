@@ -25,4 +25,5 @@ services:
 	# Api endpoints
 	#
 	- App\Controllers\LoginController
-	- App\Controllers\PingController
+	- App\Controllers\PingaController
+	- App\Controllers\PingbController
